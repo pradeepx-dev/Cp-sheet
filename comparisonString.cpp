@@ -1,3 +1,5 @@
+// Codeforces 900 rating Question: Comparison String
+
 #include <bits/stdc++.h>
 using namespace std;
 
@@ -9,6 +11,7 @@ int main()
     cin >> t;
     while (t--)
     {
+
         int n;
         cin >> n;
         string s;
