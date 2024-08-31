@@ -1,5 +1,3 @@
-// this is AbBalancing Question
-
 #include <bits/stdc++.h>
 using namespace std;
 
