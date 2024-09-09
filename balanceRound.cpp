@@ -13,10 +13,6 @@ int main(){
         int arr[n];
         for(int i=0;i<n;i++) cin>>arr[i];
         sort(arr,arr+n);
-        // for(int i=0;i<n;i++){
-        //     cout<<arr[i]<<" ";
-        // }
-        // cout<<"\n";
         int round=0;
         int ans=1;
         for(int i=1;i<n;i++){
