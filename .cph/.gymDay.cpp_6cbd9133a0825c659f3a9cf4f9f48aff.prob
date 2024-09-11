@@ -1,0 +1,1 @@
+{"name":"Local: gymDay","url":"c:\\Users\\Pradeep Kumar Maurya\\Documents\\Cp_sheet_git\\gymDay.cpp","tests":[{"id":1726066594791,"input":"3\n2 2 2\n5 40 38\n3 26 15","output":"0\n2\n-1"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\Pradeep Kumar Maurya\\Documents\\Cp_sheet_git\\gymDay.cpp","group":"local","local":true}
