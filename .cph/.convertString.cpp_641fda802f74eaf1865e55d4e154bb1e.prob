@@ -1,1 +1,0 @@
-{"name":"Local: convertString","url":"c:\\Users\\Pradeep Kumar Maurya\\Documents\\Cp_sheet_git\\convertString.cpp","tests":[{"id":1726067109611,"input":"3\n3\n111\n4\n1001\n5\n00101","output":"2\n2\n4"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\Pradeep Kumar Maurya\\Documents\\Cp_sheet_git\\convertString.cpp","group":"local","local":true}
