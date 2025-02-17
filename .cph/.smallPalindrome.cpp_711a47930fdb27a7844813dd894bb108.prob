@@ -1,0 +1,1 @@
+{"name":"Local: smallPalindrome","url":"c:\\Users\\Pradeep Kumar Maurya\\Documents\\Cp_sheet_git\\smallPalindrome.cpp","tests":[{"id":1738766650390,"input":"2\n2 0\n2 2","output":"11\n1221"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\Pradeep Kumar Maurya\\Documents\\Cp_sheet_git\\smallPalindrome.cpp","group":"local","local":true}

@@ -1,0 +1,1 @@
+{"name":"Local: minBottle","url":"c:\\Users\\Pradeep Kumar Maurya\\Documents\\Cp_sheet_git\\minBottle.cpp","tests":[{"id":1737556697086,"input":"2\n3 10\n1 2 3\n4 2\n1 2 2 1","output":"1\n3"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\Pradeep Kumar Maurya\\Documents\\Cp_sheet_git\\minBottle.cpp","group":"local","local":true}

@@ -1,0 +1,1 @@
+{"name":"Local: whiteWall","url":"c:\\Users\\Pradeep Kumar Maurya\\Documents\\Cp_sheet_git\\whiteWall.cpp","tests":[{"id":1738163948781,"input":"2\n6\nRGBRGG\n3\nRRR","output":"1\n2"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\Pradeep Kumar Maurya\\Documents\\Cp_sheet_git\\whiteWall.cpp","group":"local","local":true}

@@ -1,0 +1,1 @@
+{"name":"Local: quickq","url":"c:\\Users\\Pradeep Kumar Maurya\\Documents\\Cp_sheet_git\\quickq.cpp","tests":[{"id":1737563239875,"input":"3\n3\n4 6 5\n2\n0 2\n3\n1 2 3","output":"15\n4\n9"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\Pradeep Kumar Maurya\\Documents\\Cp_sheet_git\\quickq.cpp","group":"local","local":true}

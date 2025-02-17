@@ -1,0 +1,1 @@
+{"name":"Local: swishGame","url":"c:\\Users\\Pradeep Kumar Maurya\\Documents\\Cp_sheet_git\\swishGame.cpp","tests":[{"id":1738162105073,"input":"2\n3 4\nSPP\n3 1\nPSS","output":"5\n3"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\Pradeep Kumar Maurya\\Documents\\Cp_sheet_git\\swishGame.cpp","group":"local","local":true}
